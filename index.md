@@ -1,3 +1,17 @@
+# Hangman
+## Hangman with Year 12s
+
+A simple Hangman project in Visual Basic.Net demonstrating
+* If statements and loops
+* String manipulation
+* Reading and writing to text files
+* Adding and updating images
+* Simple Game logic
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/laura-james/Hangman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
