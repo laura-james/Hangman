@@ -9,7 +9,7 @@ A simple Hangman project in Visual Basic.Net demonstrating
 * Simple Game logic
 
 - Click link below to download latest version
-[Download the Zip](https://github.com/laura-james/Hangman/archive/gh-pages.zip)
+[Download the Zip](https://github.com/laura-james/Hangman/archive/master.zip)
 
 
 
