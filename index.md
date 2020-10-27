@@ -8,6 +8,7 @@ A simple Hangman project in Visual Basic.Net demonstrating
 * Adding and updating images
 * Simple Game logic
 
+- Click link below to download latest version
 [Download the Zip](https://github.com/laura-james/Hangman/archive/gh-pages.zip)
 
 
